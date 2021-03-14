@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T13:56:37.786Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.2.7" etag="3ojDiznCW5vgImFmeH0b" type="github"><diagram id="iqiv3-eUTk3-3cMOA62e">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-14T14:10:41.630Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="aV-pXD1LDF8AkyAz-odU" version="14.2.7" type="github">
+  <diagram id="iqiv3-eUTk3-3cMOA62e" name="Page-1">
+    <mxGraphModel dx="1304" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ify4IsPZyBRffTTEuYDL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-1" target="ify4IsPZyBRffTTEuYDL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-2" target="ify4IsPZyBRffTTEuYDL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-2" value="Pelanggan melihat produk&lt;br&gt;pada instagram Afqoz" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-3" target="ify4IsPZyBRffTTEuYDL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-3" value="Pelanggan memesan sesuai produk yang dibeli ke nomor whatsapp admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-4" target="ify4IsPZyBRffTTEuYDL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-4" target="ify4IsPZyBRffTTEuYDL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-4" value="Pesan via Whatsapp?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-10" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-11" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-16" target="ify4IsPZyBRffTTEuYDL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-16" value="Admin mengirim nota pembelian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-17" target="ify4IsPZyBRffTTEuYDL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-17" value="Pelanggan mengirim bukti pembayaran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-18" target="ify4IsPZyBRffTTEuYDL-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-18" value="Admin memproses pengiriman produk yang dibeli" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-22" target="ify4IsPZyBRffTTEuYDL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-22" value="Pelanggan datang di toko" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="150" width="211" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-24" target="ify4IsPZyBRffTTEuYDL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-24" value="Pelanggan memlilih produk&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="240" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-25" target="ify4IsPZyBRffTTEuYDL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-25" value="Pelanggan membayar produk yang dibeli ditoko" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="340" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ify4IsPZyBRffTTEuYDL-29" target="ify4IsPZyBRffTTEuYDL-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-29" value="Pelanggan menerima Produk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="600" width="211" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ify4IsPZyBRffTTEuYDL-32" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="680" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
